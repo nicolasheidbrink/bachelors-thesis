@@ -1,0 +1,15 @@
+numpy==2.5.0
+scipy==1.18.0
+torch==2.12.1
+torchdiffeq==0.2.5
+statsmodels==0.14.6
+POT==0.9.7
+pandas==3.0.3
+scikit-learn==1.9.0
+matplotlib==3.11.0
+bokeh==3.10.0
+plotly==6.8.0
+ipywidgets==8.1.9
+anywidget==0.11.0
+nbformat==5.11.1
+ipykernel==7.3.0
